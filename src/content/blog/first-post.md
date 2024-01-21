@@ -1,19 +1,61 @@
 ---
-title: 'First post'
-description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
-pubDate: 'Jul 08 2022'
-heroImage: '/blog-placeholder.jpg'
+title: 'MY Journey to Coding'
+description: 'My journey to software was a surprise or an accident'
+pubDate: 'Jan 21 2024'
+heroImage: '/doctortoengineer.png'
 categories: ['first']
-authors: ['gndx']
-tags: ['science', 'technology']
+authors: ['sk sudharsanan']
+tags: ['life', 'software','myjourney']
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+# My Journey to Software Engineering
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+## The Two Choices
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+In my family, like many others in South India, you could only be two things: a doctor or an engineer. I wanted to be a doctor, so I studied biology and maths in school. I always liked to help people who were hurt, and I wasn't scared of blood or the trouble that comes with accidents. I tried to help in this way a few times, and it made me want to be an emergency surgeon to save lives. But I wasn't the best student, so becoming a doctor stayed just a dream.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+## A Different Dream
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+I also loved movies and music since I was a kid and thought about working in that field. But that's a common dream where I come from. Most boys want to be movie stars or cricket players.
+
+## What My Parents Wanted
+
+My parents were pretty strict. They wanted me to have a big title like doctor or engineer. Since I couldn't become a doctor, they said I had to study engineering.
+
+## Starting College
+
+I didn't like engineering at all when I started college. I didn't know anything about computers or how to code. I felt like it wasn't for me and thought about quitting many times.
+
+## Coding Felt Right
+
+But then, coding just clicked for me. I could understand it and do it well without knowing much before. Maybe this was what I was meant to do. Making websites got me really excited and led to a new path for me.
+
+## Creating My First Website
+
+With my friends Neel and Balaji, we made a website called 'Chennaism.' It was about Chennai, the big city in Tamil Nadu. In our third year of college, we even got to make a feedback system for students using PHP.
+
+## Making It Through College
+
+I started to do well in design competitions at college, and that helped me pay for things because my dad had moved to a new city for his job.
+
+## Coding Became My Thing
+
+Before I finished college, coding was a big part of my life. My friends and I decided to do our final year project by ourselves. We didn't want to do the same AI projects as everyone else.
+
+## Discovering Blockchain
+
+We didn't even have a title for our project when we started. We were looking for something special. Then we found out about blockchain from a former student of our college who was in Japan.
+
+There wasn't much information on blockchain, but we really wanted to make our own. We followed a video by a YouTuber named Ivan on Tech and made a basic blockchain with Python.
+
+## Our Big Project
+
+Our teacher didn't like our first project, so we had to start over. We went to meetups to learn about Ethereum and made a simple website like eBay but using blockchain.
+
+It was tough to set up because of bad internet and a slow laptop, but we managed to make a sample online store using blockchain.
+
+## My Start in Blockchain
+
+That project helped me get my first job as a blockchain developer. I'll share more about that in my next blog.
+
+Stay tuned for the rest of my story into tech.

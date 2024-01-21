@@ -1,18 +1,18 @@
 {
-  "name": "ev0-astro-theme",
-  "version": "1.1.5",
-  "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
+  "name": "sksudharsanan",
+  "version": "0.0.1",
+  "description": "Sksudharsanan, is a 5+ software dev, worked predominantly in Blockchain and AI",
   "license": "MIT",
   "private": true,
   "author": {
     "name": "GNDX"
   },
-  "homepage": "https://ev0.gndx.dev",
+  "homepage": "https://sksudharsanan.com",
   "contributors": [
     {
-      "name": "Oscar Barajas @gndx",
-      "email": "oscar@gndx.dev",
-      "url": "https://gndx.dev"
+      "name": "sudharsanan kirubanandhan",
+      "email": "sudharsanank029@gmail.com",
+      "url": "https://sksudharsanan.com"
     }
   ],
   "keywords": [
@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gndx/ev0-astro-theme.dev.git"
+    "url": "https://github.com/SKSudharsanan/website"
   },
   "scripts": {
     "dev": "astro dev",
